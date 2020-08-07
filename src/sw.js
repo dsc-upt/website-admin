@@ -14,7 +14,7 @@ self.addEventListener('message', (e) => {
   });
   
   // workbox.core.clientsClaim();
-  workbox.core.setCacheNameDetails({prefix: "aura-admin"});
+  workbox.core.setCacheNameDetails({prefix: "website-admin"});
   
   self.__precacheManifest = [].concat(self.__precacheManifest || []);
   workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
