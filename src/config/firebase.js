@@ -7,7 +7,7 @@ import 'firebase/functions';
 
 const firebaseConfig = {
   apiKey: "AIzaSyApB04_-2R3jflCtAL4-9T_DO_qE5ngT4k",
-  authDomain: "dsc-upt.firebaseapp.com",
+  authDomain: "admin-dsc-upt.firebaseapp.com",
   databaseURL: "https://dsc-upt.firebaseio.com",
   projectId: "dsc-upt",
   storageBucket: "dsc-upt.appspot.com",

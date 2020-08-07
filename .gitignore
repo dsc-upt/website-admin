@@ -21,3 +21,5 @@ yarn-error.log*
 *.sw?
 
 functions/ui-debug.log
+
+firebase-debug.log

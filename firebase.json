@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "auradmin",
+    "site": "admin-dsc-upt",
     "public": "dist",
     "ignore": [
       "firebase.json",
